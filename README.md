@@ -2,6 +2,8 @@
 
 ![Screenshot from 2019-10-21 17-01-18](https://user-images.githubusercontent.com/50833200/67196142-70348180-f424-11e9-8f53-c9747ee3c04a.png)
 
+<a href='https://calculator-app-test-nusantech.herokuapp.com'>Website Deploying in Heroku.com</a>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -70,4 +72,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# test-front-end-nusantech
+# test-fro
