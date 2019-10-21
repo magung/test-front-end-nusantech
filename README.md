@@ -4,7 +4,7 @@
 
 <a href='https://calculator-app-test-nusantech.herokuapp.com'>Website Deploying in Heroku.com</a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
