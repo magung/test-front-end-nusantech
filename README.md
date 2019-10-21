@@ -1,4 +1,3 @@
-# Test Front End Nusantech
 # Simple Calculator App With React-Js
 
 <a href='https://calculator-app-test-nusantech.herokuapp.com'>Website Deploying in Heroku.com</a>
